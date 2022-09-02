@@ -21,8 +21,7 @@ using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 using YearProgress.Control;
 
-// Remove this using statement or project will fail to build
-using YearProgress.adKeys;
+using YearProgress.AdKeys;
 using YearProgress.Helpers;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=234238

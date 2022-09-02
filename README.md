@@ -1,7 +1,24 @@
 # YearProgressUWP
-UWP app that reminds you of where you are in time, the bigger picture, how much of the year has been completed.
-Tells you the current year's progress as a percentage with Live Tiles and Toast Notifications 
 
-Available to download in the store here: https://www.microsoft.com/store/productId/9PDQ5MLJFVSX
+This is my fork of [YearProgressUWP](https://github.com/colinkiama/YearProgressUWP/) project.
 
-![alt-text](https://github.com/colinkiama/YearProgressUWP/blob/master/img/Screenshot%20(165).png)
+
+## About
+
+- UWP app that reminds you of where you are in time, the bigger picture, how much of the year has been completed.
+- Tells you the current year's progress as a percentage with Live Tiles and Toast Notifications 
+
+
+## Screenshots
+
+![Screenshot 1](Images/shot1.png)
+
+
+## .
+
+AS IS. No support. RnD only.
+
+
+## ..
+
+[m][e] 2022
