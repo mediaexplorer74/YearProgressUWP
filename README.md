@@ -14,6 +14,14 @@ This is my fork of [YearProgressUWP](https://github.com/colinkiama/YearProgressU
 ![Screenshot 1](Images/shot1.png)
 
 
+## Tech. details
+
+- YearProgress 2.0.0.0
+- Platform: W10M
+- Target: ARM
+- Recommended os build: 19041
+- Minimal supported os. build: 14393
+
 ## .
 
 AS IS. No support. RnD only.
